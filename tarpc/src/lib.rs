@@ -4,7 +4,7 @@
 // license that can be found in the LICENSE file or at
 // https://opensource.org/licenses/MIT.
 
-#![doc(include = "../README.md")]
+#![doc(include = "../../README.md")]
 #![deny(missing_docs, missing_debug_implementations)]
 #![feature(async_await, external_doc)]
 #![cfg_attr(test, feature(proc_macro_hygiene, arbitrary_self_types))]
